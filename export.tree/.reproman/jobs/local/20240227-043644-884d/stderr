@@ -1,0 +1,10 @@
+Warning: Permanently added 'c112-072' (ECDSA) to the list of known hosts.
+WARNING (03/01/24 16:20:10): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.6140046.hostlist.MudAu3A4 to get hosts
+starting job on c112-072
+starting job on c112-073
+starting job on c127-181
+starting job on c127-182
+starting job on c127-183
+starting job on c127-184
+Terminated
